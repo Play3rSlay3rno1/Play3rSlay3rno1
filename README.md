@@ -2,8 +2,8 @@
 - 👀 I’m interested in gaming
 - 🌱 I’m currently learning to program
 - 💞️ I’m looking to collaborate on everthing new
-- 📫 How to reach me, with an follow
-- 😄 Pronouns: doesn´t matter
+- 📫 How to reach me? With an follow
+- 😄 Pronouns: who cares
 - ⚡ Fun fact: Wombats poop out square code (get it... code ;)
 
 <!---
